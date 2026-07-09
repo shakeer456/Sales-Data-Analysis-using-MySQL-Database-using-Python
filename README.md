@@ -253,7 +253,7 @@ The following charts are generated and automatically saved.
 - Quantity Sold by Product (Bar Chart)
 - Revenue Distribution (Pie Chart)
 - Average Product Price (Line Chart)
-- Sales Transactions Count (Horizontal Bar Chart)
+
 
 Charts are exported in PNG format for reporting purposes.
 
