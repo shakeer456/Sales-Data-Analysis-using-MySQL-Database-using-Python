@@ -347,8 +347,6 @@ Sales_Project/
 
 │   ├── Average_Price.png
 
-│   └── Sales_Count.png
-
 │
 
 └── SQL Scripts
